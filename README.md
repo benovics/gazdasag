@@ -1,0 +1,2 @@
+# gazdasag
+my second repository
